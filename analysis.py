@@ -1,4 +1,7 @@
 import os
 import sys
 
-print("ok")
+x = 1
+y = 2
+
+print(x)
